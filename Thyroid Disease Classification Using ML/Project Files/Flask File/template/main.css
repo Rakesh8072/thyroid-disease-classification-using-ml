@@ -1,0 +1,23 @@
+/* CSS for the body element */
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+}
+
+/* CSS for the header element */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+/* CSS for the main content area */
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* CSS for the article element */
+article {
+
